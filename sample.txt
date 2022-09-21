@@ -1,0 +1,4 @@
+This is a sample text file:
+The best way to get started
+with Python programming is to
+start a Python REPL and work your way through simple exercises!
